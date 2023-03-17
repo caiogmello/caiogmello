@@ -5,6 +5,7 @@
 
 ## About me:
 
-I'm 19, I enjoy all tipes of technologies and solving problems is my passion.
+
+### I am a 19-year-old guy who is always seeking ways to improve myself, and I find great satisfaction in problem-solving. 💪🏻
 
 I study Computer Science and, at the moment, I'm focused on back-end development studies.
