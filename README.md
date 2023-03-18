@@ -9,7 +9,7 @@ I am a 19-year-old guy who is always seeking ways to improve myself, and I find 
 
 I study Computer Science and, at the moment, I'm focused on back-end development studies.
 
-### Languages:
+### Languages: <img src="{https://img.shields.io/badge/Java-B22222?style=for-the-badge&logo=openjdk&logoColor=white}" />
 
-<img src="{https://img.shields.io/badge/Java-B22222?style=for-the-badge&logo=openjdk&logoColor=white}" />
+
 
