@@ -5,9 +5,9 @@
 
 ## About me:
  
-I am a 19-year-old student who is always seeking ways to improve myself, and I find great satisfaction in problem-solving. 💪🏻
+- I am a 19-year-old student who is always seeking ways to **improve myself**, and I find great satisfaction in **problem-solving**. 💪🏻
 
-I study Computer Science and, at the moment, I'm focused on back-end development. 💻
+- I study Computer Science and, at the moment, I'm focused on **back-end** development. 💻
 
 ## My skills
 
