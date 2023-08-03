@@ -5,25 +5,11 @@
 
 I am a 19-year-old Computer Science student who is always seeking ways to improve myself, and I find great satisfaction in problem-solving. 💪🏻
 
-
-## Here you will find:
-
-
-- College projects:
-  - [Object Oriented Programming;](https://github.com/stars/caiogmello/lists/object-oriented-programming)
-  - [Data Structures and Algorithms;](https://github.com/stars/caiogmello/lists/data-structures-and-algorithms-works)
-  - [Programming Logic and Competitive Programming codes;](https://github.com/stars/caiogmello/lists/programming-logic-codes)
-  - [Basic Software Programming;](https://github.com/stars/caiogmello/lists/programming-logic-codes)
-  
-- Web Dev projects:
-  - [Back-end;](https://github.com/stars/caiogmello/lists/back-end)
-  - [Front-end;](https://github.com/stars/caiogmello/lists/front-end)
-  - [Fullstack;](https://github.com/stars/caiogmello/lists/fullstack)
-
 ---
+## Check my projects:
 <div >
     <div>
-        <img align="right"width="35%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiogmello&layout=compact&title_color=fff&hide=css,javascript&text_color=f8f8f2&bg_color=000" />
+        <img align="right"width="28%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiogmello&layout=donut-vertical&title_color=fff&hide=css,javascript&text_color=f8f8f2&bg_color=000" />
     </div>
     <div>
         <h3>College projects:</h3>
