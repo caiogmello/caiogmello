@@ -6,6 +6,7 @@
 I am a 19-year-old Computer Science student who is always seeking ways to improve myself, and I find great satisfaction in problem-solving. 💪🏻
 ## Here you will find:
 
+
 - College projects:
   - [Object Oriented Programming;](https://github.com/stars/caiogmello/lists/object-oriented-programming)
   - [Data Structures and Algorithms;](https://github.com/stars/caiogmello/lists/data-structures-and-algorithms-works)
@@ -16,6 +17,12 @@ I am a 19-year-old Computer Science student who is always seeking ways to improv
   - [Back-end;](https://github.com/stars/caiogmello/lists/back-end)
   - [Front-end;](https://github.com/stars/caiogmello/lists/front-end)
   - [Fullstack;](https://github.com/stars/caiogmello/lists/fullstack)
+
+
+<div align="center">
+   <img width=50%  height="195px" src="https://github-readme-stats.vercel.app/api?username=caiogmello&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/caiogmello"/> 
+   <img width=50%  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiogmello&layout=compact&title_color=fff&hide=css,javascript&text_color=f8f8f2&bg_color=171c24)](https://github.com/caiogmello"/> 
+</div>
 
 ## My skills
 
@@ -30,7 +37,6 @@ I am a 19-year-old Computer Science student who is always seeking ways to improv
 
 [![caiogmello github stats](https://github-readme-stats.vercel.app/api?username=caiogmello&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/caiogmello)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiogmello&layout=compact&title_color=fff&hide=css,javascript&text_color=f8f8f2&bg_color=171c24)](https://github.com/caiogmello)
 
 ## Contact me 
 - 📧 caiogomedemello@gmail.com
