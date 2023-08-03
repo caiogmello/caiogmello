@@ -9,7 +9,7 @@ I am a 19-year-old Computer Science student who is always seeking ways to improv
 ## Check my projects:
 <div >
     <div>
-        <img align="right"width="28%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiogmello&layout=donut-vertical&title_color=fff&hide=css,javascript&text_color=f8f8f2&bg_color=000" />
+        <img align="right"width="30%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiogmello&layout=donut-vertical&title_color=fff&hide=css,javascript&text_color=f8f8f2&bg_color=000" />
     </div>
     <div>
         <h3>College projects:</h3>
