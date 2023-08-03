@@ -1,13 +1,21 @@
-# Hello 🤝 i'm Caio!
+# Hello, 🤝 i'm Caio!
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caiogmello)](https://www.linkedin.com/in/caiogmello/)
 [![LinkedIn Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/caiomellog)](https://instagram.com/caiomellog)
 
-## About me:
- 
-- I am a 19-year-old Computer Science student who is always seeking ways to improve myself, and I find great satisfaction in problem-solving. 💪🏻
+I am a 19-year-old Computer Science student who is always seeking ways to improve myself, and I find great satisfaction in problem-solving. 💪🏻
+## Here you will find:
 
-- Focused on **back-end** development. 👨‍💻
+- College projects:
+  - [Object Oriented Programming;](https://github.com/stars/caiogmello/lists/object-oriented-programming)
+  - [Data Structures and Algorithms;](https://github.com/stars/caiogmello/lists/data-structures-and-algorithms-works)
+  - [Programming Logic and Competitive Programming codes;](https://github.com/stars/caiogmello/lists/programming-logic-codes)
+  - [Basic Software Programming;](https://github.com/stars/caiogmello/lists/programming-logic-codes)
+  
+- Web Dev projects:
+  - [Back-end;](https://github.com/stars/caiogmello/lists/back-end)
+  - [Front-end;](https://github.com/stars/caiogmello/lists/front-end)
+  - [Fullstack;](https://github.com/stars/caiogmello/lists/fullstack)
 
 ## My skills
 
