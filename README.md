@@ -15,7 +15,7 @@ I am a 19-year-old Computer Science student who is always seeking ways to improv
             <li><a href="https://github.com/stars/caiogmello/lists/object-oriented-programming">Object Oriented Programming;</a></li>
             <li><a href="https://github.com/stars/caiogmello/lists/data-structures-and-algorithms-works">Data Structures and Algorithms;</a></li>
             <li><a href="https://github.com/stars/caiogmello/lists/programming-logic-codes">Programming Logic and Competitive Programming codes;</a></li>
-            <li><a href="https://github.com/stars/caiogmello/lists/programming-logic-codes">Basic Software Programming.</a></li>
+            <li><a href="https://github.com/stars/caiogmello/lists/basic-software-programming">Basic Software Programming.</a></li>
         </ul>
         <h3>Web Dev project lists:</h3>
         <ul>
