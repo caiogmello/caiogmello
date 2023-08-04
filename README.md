@@ -1,8 +1,5 @@
 # Hello, 🤝 i'm Caio!
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caiogmello)](https://www.linkedin.com/in/caiogmello/)
-[![LinkedIn Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/caiomellog)](https://instagram.com/caiomellog)
-
 I am a 19-year-old Computer Science student who is always seeking ways to improve myself, and I find great satisfaction in problem-solving. 💪🏻
 
 ---
@@ -34,3 +31,6 @@ I am a 19-year-old Computer Science student who is always seeking ways to improv
 ---
 ## Contact me 
 - 📧 caiogomedemello@gmail.com
+- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caiogmello)](https://www.linkedin.com/in/caiogmello/)
+- [![LinkedIn Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/caiomellog)](https://instagram.com/caiomellog)
+
