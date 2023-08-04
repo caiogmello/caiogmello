@@ -9,7 +9,7 @@ I am a 19-year-old Computer Science student who is always seeking ways to improv
 ## Check my projects:
 
 <div>
-    <img align="right"width="290px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiogmello&layout=donut-vertical&title_color=fff&hide=css,javascript&text_color=f8f8f2&bg_color=000" />
+    <img align="right"width="270px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiogmello&layout=donut-vertical&title_color=fff&hide=css,javascript&text_color=f8f8f2&bg_color=000" />
 </div>
 <div >
     <div>
@@ -31,5 +31,6 @@ I am a 19-year-old Computer Science student who is always seeking ways to improv
 </div>
 
 
+---
 ## Contact me 
 - 📧 caiogomedemello@gmail.com
