@@ -3,7 +3,7 @@
 I am a 19-year-old Computer Science student who is always seeking ways to improve myself, and I find great satisfaction in problem-solving. 💪🏻
 
 ---
-## Check my projects:
+# Check my projects:
 
 <div>
     <img align="right"width="280px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiogmello&langs_count=6&title_color=fff&hide=css,javascript&text_color=f8f8f2&bg_color=000" />
@@ -29,7 +29,7 @@ I am a 19-year-old Computer Science student who is always seeking ways to improv
 
 
 ---
-## Contact me 
+# Contact me 
 - 📧 caiogomedemello@gmail.com
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caiogmello)](https://www.linkedin.com/in/caiogmello/)
 - [![LinkedIn Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/caiomellog)](https://instagram.com/caiomellog)
