@@ -1,9 +1,6 @@
-# Hello, 🤝 i'm Caio!
-
-I am a 19-year-old Computer Science student who is always seeking ways to improve myself, and I find great satisfaction in problem-solving. 💪🏻
-
+# What's up? 🤝 i'm Caio!
 ---
-# Check my projects:
+## Check my projects:
 
 <div>
     <img align="right"width="250px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiogmello&langs_count=8&title_color=fff&hide=css,javascript,jupyter%20notebook&text_color=f8f8f2&bg_color=000" />
