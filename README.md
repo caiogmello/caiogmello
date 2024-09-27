@@ -7,21 +7,21 @@
 </div>
 <div >
     <div>
-        <h3>College project lists:</h3>
+        <h3> College and Personal projects:</h3>
         <ul>
             <li><a href="https://github.com/stars/caiogmello/lists/object-oriented-programming">Object Oriented Programming;</a></li>
             <li><a href="https://github.com/stars/caiogmello/lists/data-structures-and-algorithms-works">Data Structures and Algorithms;</a></li>
             <li><a href="https://github.com/stars/caiogmello/lists/programming-logic-codes">Programming Logic and Competitive Programming codes;</a></li>
-            <li><a href="https://github.com/stars/caiogmello/lists/basic-software-programming">Basic Software Programming.</a></li>
-        </ul>
-        <h3>Web Dev project lists:</h3>
-        <ul>
-            <li><a href="https://github.com/stars/caiogmello/lists/back-end">Back-end;</a></li>
-            <li><a href="https://github.com/stars/caiogmello/lists/front-end">Front-end;</a></li>
-            <li><a href="https://github.com/stars/caiogmello/lists/fullstack">Fullstack.</a></li>
+            <li><a href="https://github.com/stars/caiogmello/lists/software-engineering">Software Engineering;</a></li>
+            <li><a href="https://github.com/stars/caiogmello/lists/basic-software-programming">Basic Software Programming;</a></li>
+            <li><a href="https://github.com/stars/caiogmello/lists/programming-language-paradigms">Programming Paradigms;</a></li>
+            <li><a href="https://github.com/stars/caiogmello/lists/operational-systems">Operational Systems;</a></li>
+            <li><a href="https://github.com/stars/caiogmello/lists/compilers">Compilers;</a></li>
+            <li><a href="https://github.com/stars/caiogmello/lists/front-end">Web: Front-end;</a></li>
+            <li><a href="https://github.com/stars/caiogmello/lists/back-end">Web: Back-end;</a></li>
+            <li><a href="https://github.com/stars/caiogmello/lists/fullstack">Web: Fullstack.</a></li>
         </ul>
     </div>
-
 </div>
 
 
