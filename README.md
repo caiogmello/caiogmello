@@ -3,7 +3,7 @@
 ## Check my projects:
 
 <div>
-    <img align="right"width="250px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiogmello&langs_count=8&title_color=fff&hide=css,javascript,jupyter%20notebook&text_color=f8f8f2&bg_color=000" />
+    <img align="right"width="250px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiogmello&langs_count=8&title_color=fff&hide=c,yacc,lex,css,javascript,jupyter%20notebook&text_color=f8f8f2&bg_color=000" />
 </div>
 <div >
     <div>
